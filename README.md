@@ -39,4 +39,4 @@ Software architect and hands-on engineer in Brooklyn. I turn hard software probl
 |---|---|
 | **[xUnit.net device runners](https://github.com/xunit/devices.xunit)** | Created. Unit tests on phones and tablets, retired along with UWP and Xamarin. |
 
-Former Executive Director of the .NET Foundation · First-named inventor, U.S. Patent 12,111,957, Software Provenance Validation · Microsoft MVP 2014–2020 and Regional Director 2018–2020
+Former Executive Director of the .NET Foundation · First-named inventor, [U.S. Patent 12,111,957, Software Provenance Validation](https://patents.google.com/patent/US12111957B2/en) · Microsoft MVP 2014–2020 and Regional Director 2018–2020
