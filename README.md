@@ -1,6 +1,6 @@
 ### Claire Novotny
 
-Software architect and hands-on engineer in Brooklyn. I turn hard software problems into working systems, and I build the checks around code that AI agents write. For most of my career I've built and maintained open-source tools that other developers build on.
+Software architect and hands-on engineer in Brooklyn. I turn hard software problems into working systems, and I build the checks around code that AI agents write. For most of my career I've created and maintained open-source software that other developers build on.
 
 [novotny.org](https://novotny.org) · [LinkedIn](https://www.linkedin.com/in/clairernovotny) · [Talks](https://noti.st/clairernovotny)
 
